@@ -1,3 +1,5 @@
+
+#课堂练习1#
 as.numeric(3.141592657)
 as.logical(3.141592657)
 is.character("hello world")
